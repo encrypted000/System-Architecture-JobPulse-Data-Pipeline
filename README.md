@@ -54,8 +54,7 @@
 ---
 
 ## 🏗 Project Structure
-
-\`\`\`
+```
 jobpulse/
 │
 ├── 📂 pipeline/
@@ -86,7 +85,7 @@ jobpulse/
 ├── docker-compose.yml
 ├── requirements.txt
 └── .env.example
-\`\`\`
+```
 
 ---
 
